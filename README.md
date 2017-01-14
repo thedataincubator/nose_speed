@@ -1,5 +1,6 @@
 ## To Run
 ```bash
+cd mytest
 make test-split
 make test-share
 make test-bare
